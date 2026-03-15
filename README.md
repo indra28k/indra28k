@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=INDRA%20KUMAR%20SIRIPURAPU&fontSize=58&fontColor=fff&animation=twinkling&fontAlign=50&stroke=00d4ff&strokeWidth=2&desc=◉%20SENIOR%20DATA%20ANALYST%20◉%20HEALTHCARE%20%26%20PHARMA%20◉%20SQL%20%7C%20POWER%20BI%20%7C%20EXCEL%20◉&descSize=16&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=INDRA%20KUMAR%20SIRIPURAPU&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlign=50&stroke=00d4ff&strokeWidth=2&desc=Senior%20Data%20Analyst%20%7C%20Healthcare%20%26%20Pharma%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descSize=17&descAlign=50&descAlignY=75&descAlignY=75" />
 
 <br/>
 
