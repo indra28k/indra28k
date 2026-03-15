@@ -1,9 +1,19 @@
+<!--
+██╗███╗   ██╗██████╗ ██████╗  █████╗     ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+██║██╔██╗ ██║██║  ██║██████╔╝███████║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║██║ ╚████║██████╔╝██║  ██║██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+                        S E N I O R  D A T A  A N A L Y S T
+-->
 <div align="center">
-
-<h1>INDRA KUMAR SIRIPURAPU</h1>
-<h3>Senior Data Analytics Leader | Healthcare & Pharma Specialist</h3>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=INDRA%20KUMAR%20SIRIPURAPU&fontSize=58&fontColor=fff&animation=twinkling&fontAlign=50&stroke=00d4ff&strokeWidth=2&desc=◉%20SENIOR%20DATA%20ANALYST%20◉%20HEALTHCARE%20%26%20PHARMA%20◉%20SQL%20%7C%20POWER%20BI%20%7C%20EXCEL%20◉&descSize=16&descAlign=50&descAlignY=75" />
 <br/>
+```bash
+┌─[indra@data-analytics]─[~/healthcare-reporting]
+└──╼ $ whoami
+Senior Data Analyst | 8+ Years Experience | Healthcare & Pharma Specialist
 
 <h3>📊 Transforming Healthcare & Pharmaceutical Operations Through Strategic Data Leadership</h3>
 
