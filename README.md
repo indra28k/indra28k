@@ -7,361 +7,189 @@
 ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
                         S E N I O R  D A T A  A N A L Y S T
 -->
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=INDRA%20KUMAR%20SIRIPURAPU&fontSize=58&fontColor=fff&animation=twinkling&fontAlign=50&stroke=00d4ff&strokeWidth=2&desc=◉%20SENIOR%20DATA%20ANALYST%20◉%20HEALTHCARE%20%26%20PHARMA%20◉%20SQL%20%7C%20POWER%20BI%20%7C%20EXCEL%20◉&descSize=16&descAlign=50&descAlignY=75" />
+
 <br/>
+
 ```bash
 ┌─[indra@data-analytics]─[~/healthcare-reporting]
 └──╼ $ whoami
 Senior Data Analyst | 8+ Years Experience | Healthcare & Pharma Specialist
 
-<h3>📊 Transforming Healthcare & Pharmaceutical Operations Through Strategic Data Leadership</h3>
+┌─[indra@data-analytics]─[~/experience]
+└──╼ $ ls -la
+total 2025
+drwxr-xr-x  St. Jude Children's Research Hospital   (Oct 2022 – Present)
+drwxr-xr-x  AbbVie – Pharmaceutical Reporting       (Jun 2020 – Sep 2022)
+drwxr-xr-x  FedEx Services – Operations Analytics  (Jan 2019 – May 2020)
+drwxr-xr-x  UMRF Ventures – Data Analysis          (Dec 2017 – Dec 2018)
+-rw-r--r--  M.S. Information Systems – U of Memphis
+-rw-r--r--  Compliance-Ready Dashboards & Reports Built
+-rw-r--r--  Cross-Functional Stakeholder Collaboration
 
-[![Email](https://img.shields.io/badge/Email-indra.siripurapu22%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:indra.siripurapu22@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Memphis%2C%20TN-1e40af?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Memphis,+TN)
-[![Phone](https://img.shields.io/badge/Phone-901--552--6016-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:901-552-6016)
-
-</div>
-
----
-
-## 🎯 EXECUTIVE SUMMARY
-
-**Senior Data Analytics Professional** with **8+ years** of progressive experience driving operational excellence and regulatory compliance in **healthcare** and **pharmaceutical** environments. Proven track record of transforming complex, multi-system datasets into executive-ready insights that support strategic decision-making, audit readiness, and business continuity.
-
-### 📈 LEADERSHIP IMPACT DASHBOARD
-
-<div align="center">
-
-| **Metric** | **Achievement** | **Business Value** |
-|:-----------|:---------------:|:-------------------|
-| **Years of Experience** | 8+ Years | Healthcare & Pharmaceutical Operations |
-| **Data Volume Managed** | Multi-Million Records | Across SQL Server, Oracle, Snowflake, MySQL |
-| **Reporting Cadence** | 100+ Reports/Month | Executive, Operational & Compliance |
-| **Cross-Functional Teams** | 15+ Stakeholder Groups | Legal, Finance, Operations, Clinical |
-| **Audit Success Rate** | 100% | Zero compliance findings across all positions |
-| **Process Efficiency** | 40% Improvement | Through automation & validation frameworks |
-| **System Integration** | 10+ Enterprise Systems | CRM, ERP, Concur, ServiceNow, SharePoint |
-| **Career Progression** | 4 Promotions | Analyst → Senior Analyst in 8 years |
-
-</div>
-
----
-
-## 💼 LEADERSHIP PHILOSOPHY
-
-> *"Data excellence is not just about accuracy—it's about building trusted frameworks that empower stakeholders to make confident decisions in regulated environments. My approach combines technical rigor with business acumen, ensuring every dataset tells a clear story that drives action."*
-
-I lead through:
-- **Stakeholder Partnership**: Translating technical complexity into business clarity
-- **Compliance First**: Building audit-ready processes that withstand regulatory scrutiny
-- **Continuous Improvement**: Implementing validation frameworks that scale with organizational growth
-- **Knowledge Transfer**: Documenting processes to ensure team continuity and operational resilience
-
----
-
-## 🎯 STRATEGIC IMPACT FRAMEWORK
-```mermaid
-mindmap
-  root((Data Analytics
-    Leadership))
-    Strategic Vision
-      Regulatory Compliance
-      Audit Readiness
-      Process Automation
-      Risk Mitigation
-    Technical Excellence
-      SQL Optimization
-      Power BI Dashboards
-      Data Validation
-      ETL Architecture
-    Business Partnership
-      Stakeholder Management
-      Executive Reporting
-      Cross-Functional Teams
-      Requirements Gathering
-    Operational Impact
-      Cost Reduction
-      Efficiency Gains
-      Quality Assurance
-      Decision Support
+┌─[indra@data-analytics]─[~/expertise]
+└──╼ $ cat mission.txt
+Transforming complex healthcare & operational data into audit-ready insights 📊
+Ensuring data integrity, compliance, and stakeholder confidence — every report, every time ✅
 ```
 
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="240px">
+<a href="mailto:indra.siripurapu22@gmail.com">
+<img src="https://img.shields.io/badge/📧_indra.siripurapu22@gmail.com-1ABC9C?style=for-the-badge&logoColor=white&labelColor=0f2027&color=2c5364"/>
+</a>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/📍_Memphis,_TN-F39C12?style=for-the-badge&logoColor=white&labelColor=0f2027&color=e67e22"/>
+</td>
+<td align="center" width="200px">
+<img src="https://img.shields.io/badge/📞_901--552--6016-00D4FF?style=for-the-badge&logoColor=white&labelColor=0f2027&color=0077b5"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://linkedin.com/in/indra-kumar-siripurapu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
+</a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Experience-8+_Years-00D4AA?style=for-the-badge&labelColor=0f2027&color=203a43" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Domain-Healthcare_%26_Pharma-E74C3C?style=for-the-badge&labelColor=0f2027&color=922b21" />
+</p>
+
+</div>
+
 ---
 
-## 📊 CAREER PROGRESSION TIMELINE
-```mermaid
-timeline
-    title Professional Journey - Healthcare & Pharmaceutical Analytics
-    section Foundation
-        2016-2017 : Data Analyst Intern
-                  : Advithri Technologies India
-                  : Data migration workflows
-    section Growth Phase
-        2017-2018 : Data Analyst
-                  : UMRF Ventures
-                  : KPI tracking systems
-        2019-2020 : Operations Reporting Analyst
-                  : FedEx Services
-                  : SQL reporting solutions
-    section Leadership Era
-        2020-2022 : Senior Data Analyst
-                  : AbbVie Pharmaceuticals
-                  : Regulatory compliance reporting
-        2022-Present : Senior Data Analyst
-                     : St Jude Research Hospital
-                     : Healthcare operations analytics
+<div align="center">
+
+## 🎯 **ANALYST PROFILE**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 **PROFESSIONAL IDENTITY**
+
+```typescript
+class SeniorDataAnalyst implements DataExpert {
+  private profile: AnalystProfile = {
+    name: "Indra Kumar Siripurapu",
+    title: "Senior Data Analyst",
+    location: "Memphis, TN",
+    experience: "8+ Years",
+    education: "M.S. Information Systems – University of Memphis",
+    domains: [
+      "Healthcare & Clinical Operations",
+      "Pharmaceutical Reporting",
+      "Financial Data Reconciliation",
+      "Compliance & Audit Support"
+    ],
+    currentRole: "Senior Data Analyst @ St. Jude Children's Research Hospital"
+  };
+
+  public getCoreStrengths(): string[] {
+    return [
+      "📊 High-volume data validation & reconciliation",
+      "🏥 Regulated healthcare & pharma environments",
+      "🔍 SQL-driven exception reporting & QA",
+      "📋 Audit-ready documentation & SOPs",
+      "🤝 Cross-functional stakeholder reporting"
+    ];
+  }
+
+  get mission(): string {
+    return "Delivering accurate, compliant, and insight-driven reporting at scale";
+  }
+}
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏆 KEY STRATEGIC ACHIEVEMENTS
+### 📊 **CAREER METRICS**
 
-### 🏥 **St. Jude Children's Research Hospital** | Senior Data Analyst
-**Oct 2022 - Present** | *Healthcare Operations & Compliance*
+```python
+analyst_profile = {
+    'experience': {
+        'total_years': '8+',
+        'healthcare_years': '3+ (St. Jude)',
+        'pharma_years': '2+ (AbbVie)',
+        'logistics_years': '1+ (FedEx)',
+    },
+    'technical_toolkit': {
+        'query_languages': ['SQL', 'Oracle', 'Snowflake', 'MySQL'],
+        'reporting_tools': ['Power BI', 'SSRS', 'Tableau', 'Excel'],
+        'systems': ['SQL Server', 'MS Access', 'Concur', 'CRM'],
+        'collaboration': ['JIRA', 'SharePoint', 'Smartsheet', 'ServiceNow']
+    },
+    'core_deliverables': {
+        'dashboards': 'KPI tracking & executive reporting',
+        'reconciliation': 'Source-to-target data validation',
+        'compliance': 'Audit-ready documentation & SOPs',
+        'ad_hoc': 'Stakeholder decision-support reports'
+    }
+}
 
-#### Business Impact:
-- **Operational Excellence**: Engineered validation frameworks processing **500K+ monthly records** from multiple clinical and operational systems, reducing data discrepancies by **35%**
-- **Audit Readiness**: Established comprehensive documentation protocols supporting **zero compliance findings** across external audits
-- **Executive Visibility**: Delivered **25+ monthly dashboards** to C-suite leadership, enabling data-driven decisions for **$1B+ research operations**
-- **Cross-Functional Leadership**: Partnered with **12+ departments** (Operations, Finance, Clinical, Legal) to standardize reporting metrics and business rules
-- **Process Optimization**: Reduced report delivery time by **40%** through SQL query optimization and automated validation routines
+print(f"Status: Turning raw data into confident decisions 📊")
+# Output: Status: Turning raw data into confident decisions 📊 ✅
+```
 
-#### Technical Leadership:
-- Architected multi-source data reconciliation framework integrating **8+ enterprise systems**
-- Developed **50+ Power BI dashboards** tracking operational KPIs, turnaround times, and compliance metrics
-- Implemented data quality monitoring reducing exception reports by **60%**
-
----
-
-### 💊 **AbbVie** | Senior Data Analyst / Operations Data & Reporting Analyst
-**Jun 2020 - Sep 2022** | *Pharmaceutical Compliance & Financial Operations*
-
-#### Business Impact:
-- **Regulatory Compliance**: Supported **FDA-ready reporting** for pharmaceutical operations, maintaining **100% audit compliance**
-- **Financial Accuracy**: Managed expense reconciliation for **$50M+ annual operational spend** through Concur and finance systems
-- **Stakeholder Enablement**: Produced **executive summaries** for Legal, Finance, and Commercial teams supporting strategic initiatives
-- **Risk Mitigation**: Identified and resolved **300+ data discrepancies** monthly, preventing downstream compliance issues
-
-#### Strategic Initiatives:
-- Led data validation for **commercial operations reporting** supporting product launch decisions
-- Partnered with **Legal and Compliance teams** on vendor-facing data governance initiatives
-- Established **audit trail documentation** reducing compliance review time by **50%**
-
----
-
-### 📦 **FedEx Services** | Data Analyst / Operations Reporting Analyst
-**Jan 2019 - May 2020** | *Logistics & Financial Analytics*
-
-#### Business Impact:
-- **Data Quality Leadership**: Cleaned and standardized **2M+ customer records**, improving downstream reporting accuracy by **45%**
-- **Operational Monitoring**: Implemented proactive monitoring for **100+ scheduled reporting jobs**, reducing data delivery delays by **30%**
-- **UAT Excellence**: Led user acceptance testing for **5 major system implementations**, ensuring business validation accuracy
+</td>
+</tr>
+</table>
 
 ---
-
-### 🔬 **UMRF Ventures** | Data Analyst
-**Dec 2017 - Dec 2018** | *Research Operations Analytics*
-
-#### Foundational Achievements:
-- Built **KPI tracking frameworks** supporting research portfolio management
-- Developed **data profiling methodologies** improving dataset consistency by **40%**
-- Created **business-friendly documentation** accelerating stakeholder onboarding
-
----
-
-## 🛠️ EXECUTIVE TECHNOLOGY PORTFOLIO
-
-### **Core Analytics Stack**
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 📊 **TECHNICAL EXCELLENCE DASHBOARD**
 
-</div>
+<table align="center" style="border: none;">
+<tr>
+<td align="center" style="border: none;">
 
-### **Enterprise Systems Integration**
+### 💻 **DELIVERY METRICS**
 
-<div align="center">
+<table>
+<tr><td>🏥</td><td><b>Healthcare Experience</b></td><td><img src="https://img.shields.io/badge/3+_Years-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>💊</td><td><b>Pharma Reporting</b></td><td><img src="https://img.shields.io/badge/2+_Years-9B59B6?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📋</td><td><b>Audit Readiness</b></td><td><img src="https://img.shields.io/badge/Compliance_Expert-E74C3C?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔄</td><td><b>Data Reconciliation</b></td><td><img src="https://img.shields.io/badge/Advanced-F39C12?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📈</td><td><b>Total Experience</b></td><td><img src="https://img.shields.io/badge/8+_Years-00D4FF?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
 
-| **Category** | **Technologies** | **Business Application** |
-|:-------------|:-----------------|:-------------------------|
-| **Databases** | SQL Server, Oracle, Snowflake, MySQL, MS Access | Multi-source data extraction & validation |
-| **BI Platforms** | Power BI, SSRS, Tableau | Executive dashboards & regulatory reporting |
-| **Collaboration** | JIRA, SharePoint, Smartsheet, ServiceNow | Cross-functional project management |
-| **Financial Systems** | Concur, Accounts Payable Systems | Expense reconciliation & audit support |
-| **Programming** | SQL, Python, Advanced Excel (VBA, Power Query) | Automation & data transformation |
+</td>
+<td align="center" style="border: none;">
 
-</div>
+### 🛠️ **TOOL PROFICIENCY**
 
----
+<table>
+<tr><td>🗄️</td><td><b>SQL</b></td><td><img src="https://img.shields.io/badge/Expert-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📊</td><td><b>Excel (Advanced)</b></td><td><img src="https://img.shields.io/badge/Expert-217346?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📉</td><td><b>Power BI</b></td><td><img src="https://img.shields.io/badge/Proficient-F2C811?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔮</td><td><b>Tableau</b></td><td><img src="https://img.shields.io/badge/Proficient-E97627?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>❄️</td><td><b>Snowflake / Oracle</b></td><td><img src="https://img.shields.io/badge/Experienced-29B5E8?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
 
-## 🚀 FEATURED STRATEGIC PROJECTS
+</td>
+</tr>
+</table>
 
-### 📊 **Comprehensive Healthcare Analytics Platform**
-**[View Repository](https://github.com/indra28k/comprehensive-healthcare-analytics)**
+<br/>
 
-**Business Challenge**: Stakeholders needed unified visibility into patient trends, billing insights, and operational performance across fragmented data sources.
-
-**Solution Architecture**:
-- Integrated **4 data sources** (Patient, Doctor, Billing, Appointment systems)
-- Built **end-to-end ETL pipeline** using SQL Server and Python (Pandas)
-- Developed **interactive Power BI dashboards** for executive consumption
-
-**Business Impact**:
-- Enabled **real-time visibility** into $10M+ monthly billing operations
-- Identified **revenue optimization opportunities** through doctor performance analytics
-- Reduced **manual reporting time by 60%** through automation
-
-**Technical Highlights**:
-- SQL data cleaning removing duplicates and ensuring referential integrity
-- Python-based exploratory data analysis (EDA) with Matplotlib and Seaborn
-- Power BI relationship modeling with drill-through capabilities
-
----
-
-### 🤖 **MLOps End-to-End Framework**
-**[View Repository](https://github.com/indra28k/mlops-end-to-end-project)**
-
-**Strategic Vision**: Established enterprise-grade machine learning operations framework supporting model deployment, monitoring, and governance.
-
-**Framework Components**:
-- **CI/CD Pipeline**: GitHub Actions + Jenkins automation
-- **Model Management**: MLflow experiment tracking and versioning
-- **Infrastructure**: Docker + Kubernetes orchestration
-- **Monitoring**: Prometheus + Grafana dashboards
-
-**Business Value**:
-- Scalable ML deployment architecture for predictive analytics
-- Audit-ready model versioning and documentation
-- Reduced model deployment time from weeks to days
-
----
-
-### 📈 **Customer Churn Prediction System**
-**[View Repository](https://github.com/indra28k/customer-churn-prediction)**
-
-**Business Objective**: Predict customer churn with **81% accuracy** to enable proactive retention strategies.
-
-**Analytical Approach**:
-- Statistical hypothesis testing (Chi-Square, T-Tests) identifying churn drivers
-- Machine learning model comparison (Decision Tree, Random Forest, KNN, Logistic Regression)
-- Feature engineering on contract types, payment methods, and service utilization
-
-**Strategic Recommendations**:
-- Pricing strategy adjustments for month-to-month contracts
-- Service bundling recommendations reducing churn by projected **15%**
-- Customer segmentation for targeted retention campaigns
-
----
-
-### 🔍 **Anomaly Detection Engine**
-**[View Repository](https://github.com/indra28k/anomaly-detection)**
-
-**Security Challenge**: Detect unauthorized access attempts and compromised accounts through behavioral analytics.
-
-**Technical Solution**:
-- XGBoost classification model scoring login events (1-10 scale)
-- FastAPI deployment for real-time anomaly detection
-- Feature engineering on login ratios, device diversity, and geographic patterns
-
-**Business Impact**:
-- Real-time security threat identification
-- Reduced false positives by **40%** through model optimization
-- Scalable API architecture processing **10K+ daily login events**
-
----
-
-### 🛒 **Retail Data Analytics: Python + SQL Integration**
-**[View Repository](https://github.com/indra28k/retail-data-analytics-project-python-sql-integration)**
-
-**Business Context**: End-to-end analytics workflow demonstrating ETL mastery and insight generation.
-
-**Workflow Execution**:
-- Kaggle API data extraction automation
-- Python (Pandas) data cleaning and preprocessing
-- SQL Server database integration for advanced querying
-- Actionable insights on product performance and customer segmentation
-
-**Key Insights Delivered**:
-- Top-selling product identification driving **$500K+ revenue**
-- Customer purchasing pattern analysis informing marketing strategy
-- Inventory optimization recommendations for peak sales periods
-
----
-
-### 🎬 **Sentiment Analysis Web Application (AWS SageMaker)**
-**[View Repository](https://github.com/indra28k/sentiment-analysis-webapp-sagemaker)**
-
-**Cloud Architecture**: Serverless sentiment analysis using AWS ecosystem.
-
-**Technical Stack**:
-- AWS SageMaker for model training and deployment
-- Lambda functions for serverless compute
-- API Gateway for web application integration
-- IMDB dataset for natural language processing
-
-**Architectural Excellence**:
-- Scalable cloud-native deployment
-- Real-time sentiment prediction API
-- Cost-optimized serverless architecture
-
----
-
-## 🎓 EDUCATION & PROFESSIONAL DEVELOPMENT
-
-<div align="center">
-
-### **Master of Science in Information Systems**
-**University of Memphis** | Aug 2017 - Dec 2018 | GPA: 3.14
-
-**Specializations**: Data Analytics, Database Management, Business Intelligence
-
-</div>
-
----
-
-## 🤝 MENTORSHIP & KNOWLEDGE LEADERSHIP
-
-### **Cross-Functional Enablement**
-- **Stakeholder Training**: Conducted **20+ training sessions** for business users on Power BI dashboard navigation and data interpretation
-- **Documentation Excellence**: Authored **comprehensive SOPs** and methodology guides supporting team onboarding and audit readiness
-- **Process Standardization**: Established **data governance best practices** adopted across 5+ departments
-
-### **Technical Mentorship**
-- **SQL Optimization**: Mentored junior analysts on query performance tuning, reducing average execution time by **50%**
-- **Dashboard Design**: Coached team members on executive-level visualization principles and storytelling with data
-- **Validation Frameworks**: Transferred knowledge on building scalable data quality checks and reconciliation processes
-
----
-
-## 🌐 PROFESSIONAL NETWORK & ENGAGEMENT
-
-### **Industry Expertise**
-- **Healthcare Analytics**: 4+ years specializing in clinical operations, patient data, and regulatory reporting
-- **Pharmaceutical Compliance**: 2+ years in FDA-regulated environments with GxP documentation
-- **Operational Reporting**: 8+ years across healthcare, pharma, logistics, and research sectors
-
-### **Technical Communities**
-- Active contributor to data analytics best practices on GitHub
-- Portfolio demonstrating **700+ commits** and continuous learning initiatives
-- Open-source project maintainer showcasing MLOps and analytics frameworks
-
-### **Connect With Me**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-indra.siripurapu22%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:indra.siripurapu22@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-901--552--6016-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:901-552-6016)
-[![GitHub](https://img.shields.io/badge/GitHub-indra28k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indra28k)
+**🏆 CAREER HIGHLIGHTS:**
+<img src="https://img.shields.io/badge/🏥_St._Jude_Hospital-success?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/💊_AbbVie_Pharma-blue?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/📦_FedEx_Services-orange?style=for-the-badge&labelColor=0f2027"/>
 
 </div>
 
@@ -369,6 +197,413 @@ timeline
 
 <div align="center">
 
-*© 2024 Indra Kumar Siripurapu | Senior Data Analytics Leader*
+## 💼 **PROFESSIONAL EXPERIENCE**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏥 **ST. JUDE CHILDREN'S RESEARCH HOSPITAL**
+
+**Senior Data Analyst | Oct 2022 – Present | Memphis, TN**
+
+<img src="https://img.shields.io/badge/Healthcare-Clinical_Reporting-E74C3C?style=for-the-badge&labelColor=0f2027"/>
+
+</div>
+
+**🛠️ KEY RESPONSIBILITIES**
+
+```yaml
+Reporting:    Recurring & ad hoc dashboards
+              KPI tracking & operational metrics
+Validation:   SQL-based exception monitoring
+              Duplicate & discrepancy detection
+Reconciliation: Cross-system record matching
+                Root cause documentation
+Compliance:   Audit-ready SOP maintenance
+              Reporting lineage & field definitions
+Stakeholders: Finance, Operations, Enterprise teams
+```
+
+**📊 IMPACT AREAS**
+
+- 🔍 **Data Integrity**: Multi-system validation before leadership distribution
+- 📋 **Compliance**: Audit readiness through detailed process documentation
+- 🤝 **Collaboration**: Cross-functional reporting under tight deadlines
+- 💡 **Transparency**: Clear data lineage explanations to end users
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💊 **ABBVIE PHARMACEUTICALS**
+
+**Senior Data Analyst | Jun 2020 – Sep 2022 | Raleigh, NC**
+
+<img src="https://img.shields.io/badge/Pharma-Regulated_Reporting-9B59B6?style=for-the-badge&labelColor=0f2027"/>
+
+</div>
+
+**🛠️ KEY RESPONSIBILITIES**
+
+```yaml
+QA & Validation: Multi-dataset reconciliation
+                 Completeness & accuracy checks
+Dashboards:      Excel scorecards & trackers
+                 Stakeholder-facing metric views
+Compliance:      Methodology documentation
+                 Audit support & knowledge transfer
+Collaboration:   Legal, Finance, Vendor teams
+                 Concur & expense data reporting
+Reporting:       Executive summaries & presentations
+                 Risk areas & follow-up tracking
+```
+
+**📊 IMPACT AREAS**
+
+- 📊 **Regulated Environment**: Pharmaceutical-grade data quality standards
+- 🔄 **Reconciliation**: Logic validation across financial & operational data
+- 📢 **Executive Reporting**: Complex insights translated for leadership
+- 🏛️ **Audit Support**: Process consistency via repeatable controls
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📦 **FEDEX SERVICES**
+
+**Data Analyst | Jan 2019 – May 2020 | Memphis, TN**
+
+<img src="https://img.shields.io/badge/Logistics-Operations_Analytics-F39C12?style=for-the-badge&labelColor=0f2027"/>
+
+</div>
+
+**🛠️ KEY RESPONSIBILITIES**
+
+```yaml
+SQL Reporting:  Transaction-level data extraction
+                Financial & operational reporting
+Data Quality:   Cleanup & standardization
+                Customer & pricing reconciliation
+Monitoring:     Scheduled job oversight
+                Report completeness validation
+UAT Support:    Test extracts & result comparison
+                Issue documentation & remediation
+```
+
+**📊 IMPACT AREAS**
+
+- 🔧 **SQL Mastery**: Complex query development for operations data
+- 🛡️ **Data Trust**: Proactive monitoring of reporting pipelines
+- ✅ **UAT Cycles**: Business validation with documented issue tracking
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏢 **UMRF VENTURES**
+
+**Data Analyst | Dec 2017 – Dec 2018 | Memphis, TN**
+
+<img src="https://img.shields.io/badge/Analytics-KPI_%26_Reporting-1ABC9C?style=for-the-badge&labelColor=0f2027"/>
+
+</div>
+
+**🛠️ KEY RESPONSIBILITIES**
+
+```yaml
+Reporting:    Recurring KPI & business analysis
+              SQL & Excel based extractions
+Data Quality: Profiling, cleansing, reconciliation
+              Cross-output consistency checks
+Documentation: Business-friendly summaries
+               Trackers & stakeholder communication
+```
+
+**📊 IMPACT AREAS**
+
+- 📈 **KPI Tracking**: Reliable recurring report delivery
+- 🧹 **Data Cleansing**: Consistency across reporting outputs
+- 📝 **Documentation**: Stakeholder-aligned summaries & trackers
+
+---
+
+### 🌏 **ADVITHRI TECHNOLOGIES (INTERN)**
+
+**Data Analyst Intern | Nov 2016 – Jul 2017 | India**
+
+- Dataset preparation, format standardization, and record validation
+- Defect tracking and revalidation during data migration workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ **COMPREHENSIVE TECHNOLOGY ARSENAL**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### **🗄️ DATA & DATABASES**
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
+</p>
+
+**CORE COMPETENCIES**
+
+- 🎯 **Complex SQL Queries & Joins**
+- 🔍 **Data Profiling & Validation**
+- 🔄 **Source-to-Target Reconciliation**
+- 📊 **Exception & Discrepancy Reporting**
+- 🏗️ **Database Extraction & Structuring**
+
+</td>
+<td width="33%" valign="top">
+
+### **📊 REPORTING & BI TOOLS**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+**DEVELOPMENT SKILLS**
+
+- 📈 **KPI Dashboards & Scorecards**
+- 📋 **Ad Hoc & Recurring Reports**
+- 🎯 **Executive Presentations**
+- 📊 **Trend & Variance Analysis**
+- 🔮 **Audit-Ready Data Outputs**
+
+</td>
+<td width="33%" valign="top">
+
+### **🤝 COLLABORATION PLATFORMS**
+
+<p align="center">
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Smartsheet-00AEEF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ServiceNow-00C244?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
+
+**COLLABORATION SKILLS**
+
+- 🏛️ **Compliance & SOP Documentation**
+- 📢 **Stakeholder Communication**
+- 🔁 **Issue Tracking & Resolution**
+- 📁 **Retention & Audit Support**
+- 🗂️ **Status & Methodology Reporting**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 **COMPETENCY MATRIX**
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+### **🗄️ DATA ENGINEERING**
+
+<img src="https://img.shields.io/badge/SQL_%26_ETL-Expert-00D4AA?style=for-the-badge&labelColor=0f2027"/>
+
+**CAPABILITIES**
+- Advanced SQL Development
+- Data Extraction & Cleanup
+- Validation Routines
+- Reconciliation Workflows
+- Source-to-Target Checks
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### **📊 REPORTING & BI**
+
+<img src="https://img.shields.io/badge/Dashboards_%26_BI-Proficient-9C27B0?style=for-the-badge&labelColor=0f2027"/>
+
+**CAPABILITIES**
+- Power BI Dashboards
+- SSRS Report Development
+- Excel Advanced Analytics
+- KPI & Metric Tracking
+- Executive Summaries
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### **🏥 DOMAIN EXPERTISE**
+
+<img src="https://img.shields.io/badge/Healthcare_%26_Pharma-Deep-2196F3?style=for-the-badge&labelColor=0f2027"/>
+
+**CAPABILITIES**
+- Regulated Environments
+- Clinical Data Reporting
+- Pharmaceutical QA
+- Compliance Workflows
+- Financial Reconciliation
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### **📋 COMPLIANCE & DOCS**
+
+<img src="https://img.shields.io/badge/Audit_Readiness-Advanced-E74C3C?style=for-the-badge&labelColor=0f2027"/>
+
+**CAPABILITIES**
+- SOP Development
+- Methodology Documentation
+- Audit Trail Maintenance
+- Issue & Risk Tracking
+- Knowledge Transfer
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 **EDUCATION**
+
+<table width="80%">
+<tr>
+<td align="center">
+
+### 🏛️ **UNIVERSITY OF MEMPHIS**
+
+<img src="https://img.shields.io/badge/M.S._Information_Systems-2C3E50?style=for-the-badge&labelColor=00629B&color=003E6B"/>
+
+**Aug 2017 – Dec 2018 | Memphis, TN | GPA: 3.14**
+
+Master of Science in Information Systems — focused on database systems, analytics, and enterprise information management.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **OPEN TO OPPORTUNITIES**
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### **💡 AREAS OF INTEREST**
+
+```yaml
+open_to:
+  - Healthcare Analytics: Clinical & operational data reporting
+  - Pharma Compliance: Regulated reporting environments
+  - Financial Reconciliation: Audit-ready data workflows
+  - BI Development: Power BI / Tableau dashboards
+  - Data Governance: SOPs, documentation, data quality
+  - Enterprise Reporting: Large-scale stakeholder solutions
+  - Senior/Lead Roles: Driving reporting strategy & QA standards
+```
+
+**🌟 Committed to data accuracy, compliance, and impactful insights!**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### **📬 LET'S CONNECT**
+
+<br/>
+
+**💼 PROFESSIONAL INQUIRIES**
+
+<a href="mailto:indra.siripurapu22@gmail.com">
+<img src="https://img.shields.io/badge/Email-indra.siripurapu22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**📞 DIRECT CONTACT**
+
+<img src="https://img.shields.io/badge/Phone-901--552--6016-00D4FF?style=for-the-badge&logo=phone&logoColor=white"/>
+
+<br/><br/>
+
+**🔗 PROFESSIONAL NETWORK**
+
+<a href="https://linkedin.com/in/indra-kumar-siripurapu">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **PROFILE INSIGHTS**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Experience-8+_Years-00D4AA?style=for-the-badge&labelColor=0f2027" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Domain-Healthcare_%26_Pharma-E74C3C?style=for-the-badge&labelColor=0f2027" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&labelColor=0f2027" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&animation=twinkling" />
+
+> **"Data is the new oil — but only when it's refined, validated, and trusted."**  
+> _— Senior Data Analyst • Healthcare & Pharma Expert • Memphis, TN —_
+
+<br/>
+
+**🌟 8+ years of delivering compliance-ready, stakeholder-trusted reporting across healthcare, pharma, and enterprise environments.**
 
 </div>
