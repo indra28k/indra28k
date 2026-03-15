@@ -1,6 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=280&section=header&text=INDRA%20KUMAR%20SIRIPURAPU&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analytics%20Leader%20%7C%20Healthcare%20%26%20Pharma%20Specialist&descSize=20&descAlignY=55)
+<h1>INDRA KUMAR SIRIPURAPU</h1>
+<h3>Senior Data Analytics Leader | Healthcare & Pharma Specialist</h3>
+
+<br/>
 
 <h3>📊 Transforming Healthcare & Pharmaceutical Operations Through Strategic Data Leadership</h3>
 
@@ -48,7 +51,6 @@ I lead through:
 ---
 
 ## 🎯 STRATEGIC IMPACT FRAMEWORK
-
 ```mermaid
 mindmap
   root((Data Analytics
@@ -78,7 +80,6 @@ mindmap
 ---
 
 ## 📊 CAREER PROGRESSION TIMELINE
-
 ```mermaid
 timeline
     title Professional Journey - Healthcare & Pharmaceutical Analytics
@@ -350,4 +351,14 @@ timeline
 
 [![Email](https://img.shields.io/badge/Email-indra.siripurapu22%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:indra.siripurapu22@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-901--552--6016-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:901-552-6016)
-[![GitHub](https://img.shields.io/badge/GitHub-indra28k-181717?style=for-
+[![GitHub](https://img.shields.io/badge/GitHub-indra28k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indra28k)
+
+</div>
+
+---
+
+<div align="center">
+
+*© 2024 Indra Kumar Siripurapu | Senior Data Analytics Leader*
+
+</div>
